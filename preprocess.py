@@ -24,8 +24,8 @@ def clean_remove_header(f):
     else:
         payload = email_msg.get_payload()
     # payload = email_msg.get_payload()
-    text = talon.quotations.extract_from_plain(payload)
-    # text = EmailReplyParser.parse_reply(payload)
+    text = EmailReplyParser.parse_reply(payload)
+    text = talon.quotations.extract_from_plain(text)
     text, sign = signature.bruteforce.extract_signature(text)
     text, sign = signature.extract(text, sender='')
     return text
