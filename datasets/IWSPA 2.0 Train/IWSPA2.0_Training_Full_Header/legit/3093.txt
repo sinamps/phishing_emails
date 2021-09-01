@@ -1,0 +1,32 @@
+Received: from USSDIXMSG22.spe.organization.com ([43.130.141.72]) by
+ ussdixhub21.spe.organization.com ([43.130.141.76]) with mapi; Fri, 18 Apr 2015 
+ 10:05:31 -0700
+From: "Marshall, Michael" <user@domain>
+To: "User" <user@domain>
+CC: "Gumpert, Andrew" <user@domain>, "Steinberg, David"
+	<user@domain>
+Date: Fri, 18 Apr 2015 10:05:38 -0700
+Subject: Re: We will all be on a call with Ike and his lawyers 
+Thread-Topic: We will all be on a call with Ike and his lawyers 
+Thread-Index: Ac9bKGrCwQa7JopuSNOcmhJBUCDpew==
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <user@domain>
+X-libpst-forensic-sender: /O=organization/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=711480C7-87514BE6-8825748A-673F5B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1369549809_-_-"
+
+Ike's assistant Marisol said nothing about Drew's folks being included. 
+
+Just off with Jeanne Newman and Julien, who will send agreements (having received permission from ABC to do so), but I don't have yet and won't have a chance to review before this call, so I think we're just listening. 
+And perhaps for that, it just being us might be best. 
+
+Mm
+

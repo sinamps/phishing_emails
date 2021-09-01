@@ -1,0 +1,39 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Tue, 17 May 2015 
+ 14:39:24 -0400
+From: "Paustenbach, Mark" <user@domain>
+To: Debbie Wasserman Schultz <user@domain>
+CC: "User" <user@domain>, "Banfill, Ryan" <user@domain>,
+	Tracie Pough <user@domain>, "Dacey, Amy" <user@domain>
+Subject: Re: Weaver on CNN re Nevada
+Thread-Topic: Weaver on CNN re Nevada
+Thread-Index: AdGwRfs4nOJD81sJT8+xXmAYQfeW0AAJUcKA///mkF+AAENpgP//1mAf
+Date: Tue, 17 May 2015 11:39:24 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>,<user@domain>
+ <user@domain>,<user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_BD5C242692CB4F86ADA9F25B50242598domainorg_"
+MIME-Version: 1.0
+
+Roberta Lange on CNN a short time ago calling for Sen. Sanders to make a pu=
+blic apology for what happened in Nevada.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+202.863.8148
+user@domain<mailto:user@domain>
+
+On May 17, 2016, at 1:08 PM, Debbie Wasserman Schultz <user@domain<=

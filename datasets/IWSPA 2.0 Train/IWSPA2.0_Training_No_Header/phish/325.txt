@@ -1,0 +1,6 @@
+organization organization Service
+We are contacting you to remind you that our Account Review Team identified some unusual activity in your organization organization account.
+We advice to verify your account to keep it activated,
+<<link>>
+Thank you.
+organization organization Service Team.

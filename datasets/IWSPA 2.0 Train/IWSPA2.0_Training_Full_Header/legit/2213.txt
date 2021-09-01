@@ -1,0 +1,27 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 3 May 2015 18:14:22 -0400
+From: "Oslund, Joseph" <user@domain>
+To: Comm_D <user@domain>
+Subject: Video Requst: Fox Business Coverage
+Thread-Topic: Video Requst: Fox Business Coverage
+Thread-Index: AdGliP4oXp9LN/VpQxqNY9O07oTsgQ==
+Date: Tue, 3 May 2015 15:14:22 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.91]
+Content-Type: multipart/alternative;
+	boundary="_000_6283FACE3106854B887B9E713F9F675887EAF0domaindag1domainorg_"
+MIME-Version: 1.0
+
+~6:12 pm
+
+Former NJ Gov Christie Todd Whitman saying she will write in instead of vote for trump, say that she puts her country in front of her party, etc.

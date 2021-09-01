@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@2d96bb41-3950-40bb-87a6-8ee9e3191638" />
+        <remote-mappings server-id="python@sftp://sinamps@scissors.cs.colostate.edu:22/s/bach/h/proj/COVID-19/claim/env_s/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/s/bach/h/proj/COVID-19/smps/phishing" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

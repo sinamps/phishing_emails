@@ -1,0 +1,43 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 28 Apr 2015 15:40:50 -0400
+From: "Manriquez, Pablo" <user@domain>
+To: "User" <user@domain>
+CC: "Roberts, Kelly" <user@domain>, "Freundlich, Christina"
+	<user@domain>, "Dillon, Lauren" <user@domain>, "Paustenbach,
+ Mark" <user@domain>, "Walker, Eric" <user@domain>
+Subject: Re: Pablo!
+Thread-Topic: Pablo!
+Thread-Index: 
+ AQHRoW+V59BSRVqEi0qJKmEnk+O7Yp+fnwMLgAAFHhCAABiT94AAAykNgAAAjaeAAACGvoAAABDggAAA7FCAAAJaAIAABJZv
+Date: Thu, 28 Apr 2015 12:40:50 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>
+ <user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>,<user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_1EB905A33E6C4181ABC65077657298EAdomainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Roger, but might be either too late or way too late at this point to drop a=
+ research file on them so lets do it this way: If there is one thing we wan=
+t to talk about during his segment 40 mins from now it's what? Carly? Scotu=
+s nominee? Trump's foreign policy team? Choose one and only one for this se=
+gment and I'll pitch the others for future segments.
+
+Sent from my iPhone
+
+On Apr 28, 2016, at 3:25 PM, User <user@domain<mailto:User=

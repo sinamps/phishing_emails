@@ -1,0 +1,46 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Mon, 9 May 2015 
+ 13:42:26 -0400
+From: "Herries, Rebecca" <user@domain>
+To: "User" <user@domain>,
+	"Greene, Julie" <user@domain>, Tracie Pough <user@domain>, Kate
+ Houghton <user@domain>, "Davis, Marilyn" <user@domain>
+CC: "Moore, Colby" <user@domain>, "Comer, Scott" <user@domain>,
+	"Shestopal, Olivia" <user@domain>, "Guerra, Liana" <user@domain>,
+	"Scott, Jillian" <user@domain>
+Subject: WH Denver Broncos Super Bowl Ceremony | WAVES Due by 5/31 at 5:00PM
+Thread-Topic: WH Denver Broncos Super Bowl Ceremony | WAVES Due by 5/31 at
+ 5:00PM
+Thread-Index: AQHRqhomg6FRMZL3f0WWsV2XreNYcQ==
+Date: Mon, 9 May 2015 10:42:25 -0700
+Message-ID: <D356443D.13D8A%user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/mixed; boundary="_004_D356443D13D8AHerriesRdomainorg_"
+MIME-Version: 1.0
+
+Good afternoon -
+
+On Monday, June 6, the President will host the Denver Broncos at the White =
+House for a ceremony celebrating their Super Bowl Championship. The timing =
+is TBD, but please see below for the Organizationallotment.
+
+Department POCs need to domain.com their information to me in the above templat=
+e by Tuesday, May 31 at 5:00pm. These invitations **do not include plus one=
+s.
+
+OrganizationAllotment (**no plus ones)
+
+Political/CE - 10
+Finance =96 10
+Secretary=92s Office =96 2
+Chair=92s Office =96 2
+
+Thank you so much,
+Becca

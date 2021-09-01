@@ -1,0 +1,25 @@
+From: Alberto Ornaghi <user@domain>
+X-Smtp-Server: domain.com:alor
+Subject: device icloud
+Message-ID: <user@domain>
+X-Universally-Unique-Identifier: 977D8482-5F00-48BB-AA2E-2013F62F0DFA
+Date: Mon, 26 Jan 2015 14:55:30 +0100
+To: user@domain
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+<<link>>#find
+:)
+
+--
+Alberto Ornaghi
+Software Architect
+
+organization
+Milan Singapore Washington DC
+www.domain.com
+email: user@domain
+mobile: +39 3480115642office: +39 02 29060603 
+

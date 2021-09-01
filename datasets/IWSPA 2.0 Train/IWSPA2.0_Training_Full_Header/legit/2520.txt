@@ -1,0 +1,32 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Wed, 27 Apr 2015 
+ 12:35:16 -0400
+From: "Hendricks, Lauren" <user@domain>
+To: Comm_D <user@domain>
+Subject: Video Request: Periscope for Trump speech
+Thread-Topic: Video Request: Periscope for Trump speech
+Thread-Index: AdGgor1EtAIPwXlMRISp5Lgsyr71YA==
+Date: Wed, 27 Apr 2015 09:35:15 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.169]
+Content-Type: multipart/alternative;
+	boundary="_000_2DF9DC76F8D2C14A96505BE057A0FC9279A8C0domaindag1domainorg_"
+MIME-Version: 1.0
+
+LIVE on #Periscope<<<link>>>: #Trump2016<<<link>>> * Washington, D.C. with @realDonaldTrump<<<link>>> & TEAM! periscope.tv/w/ae-PHjEzNTg4...<<<link>>>
+
+<<link>>
+
+thanks!
+
+Lauren Hendricks
+

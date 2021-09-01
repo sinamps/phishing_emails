@@ -1,0 +1,40 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Sat, 23 Apr 2015 12:44:32 -0400
+From: "Paustenbach, Mark" <user@domain>
+To: "User" <user@domain>
+CC: "Manriquez, Pablo" <user@domain>
+Subject: Re: Draft Fox News Sunday Briefing
+Thread-Topic: Draft Fox News Sunday Briefing
+Thread-Index: 
+ AdGc7LqOUatw7DZ0Tyepjvorwth+2gAALUp4AABq7mYAADKfdgACPH5bAAKIM7YAAEm1EgAAA62AAABV+xsAHni41Q==
+Date: Sat, 23 Apr 2015 09:44:32 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>,<user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_C1F04F2D583943CDAF40AF9810F20B0Edomainorg_"
+MIME-Version: 1.0
+
+Pablo did you add the additional info into the doc and send back to this gr=
+oup?
+
+User do you want to then take a quick pass and send to Kate et al?
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+202.863.8148
+user@domain<mailto:user@domain>
+
+On Apr 22, 2016, at 10:12 PM, User <user@domain<mailto:Mirand=

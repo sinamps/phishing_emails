@@ -1,0 +1,46 @@
+Received: from domain (192.168.10.251) by domain
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Fri, 6 May 2015 
+ 14:59:54 -0400
+Received: from domain (postman [127.0.0.1])	by domain
+ (Postfix) with ESMTP id E498623E68;	Fri,  6 May 2015 14:59:53 -0400 (EDT)
+X-Original-To: user@domain
+Delivered-To: user@domain
+Received: from domain (domain [192.168.185.16])	by
+ domain (Postfix) with ESMTP id 974C220304;	Fri,  6 May 2015 14:59:52
+ -0400 (EDT)
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+	domain ([::1]) with mapi id 14.03.0224.002; Fri, 6 May 2015 
+	14:59:53 -0400
+From: "User" <user@domain>
+To: "User" <user@domain>
+Subject: Points from Talkers Call
+Thread-Topic: Points from Talkers Call
+Thread-Index: AdGnyOqG5crIpJeqT4O3ymcay3SkDw==
+Date: Fri, 6 May 2015 18:59:52 +0000
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.170]
+CC: "Paustenbach, Mark" <user@domain>
+X-BeenThere: user@domain
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: <domain>
+List-Unsubscribe: <<<link>>>,
+	<mailto:user@domain?subject=unsubscribe>
+List-Archive: <<<link>>>
+List-Help: <mailto:user@domain?subject=help>
+List-Subscribe: <<<link>>>,
+	<mailto:user@domain?subject=subscribe>
+Content-Type: multipart/mixed;
+	boundary="===============5996823066170132907=="
+Sender: <user@domain>
+Errors-To: user@domain
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain

@@ -1,0 +1,40 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Tue, 17 May 2015 
+ 13:49:33 -0400
+From: "Paustenbach, Mark" <user@domain>
+To: Debbie Wasserman Schultz <user@domain>
+CC: Tracie Pough <user@domain>, "User" <user@domain>,
+	"Banfill, Ryan" <user@domain>, "Dacey, Amy" <user@domain>
+Subject: Re: FOR REVIEW: OrganizationStatement on Nevada Democratic Party Letter
+Thread-Topic: FOR REVIEW: OrganizationStatement on Nevada Democratic Party Letter
+Thread-Index: 
+ AdGwX/MQl2Gn4jt4T1SVqBZpHBIGpwAAaBQAAAi18ID//78Ig////+3wgABD/wD//70mPw==
+Date: Tue, 17 May 2015 10:49:33 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>,<user@domain>
+ <user@domain>
+ <user@domain>,<user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_C0CF34893A3E4A25A3BC2CD352C8DA0Cdomainorg_"
+MIME-Version: 1.0
+
+Done.
+
+Mark Paustenbach
+National Press Secretary &
+Deputy Communications Director
+Organization
+202.863.8148
+user@domain<mailto:user@domain>
+
+On May 17, 2016, at 1:48 PM, Debbie Wasserman Schultz <user@domain<=

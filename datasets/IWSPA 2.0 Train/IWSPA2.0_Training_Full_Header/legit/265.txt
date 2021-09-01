@@ -1,0 +1,70 @@
+Received: from relay.domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 16 Jun 2015 12:10:23 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.domain.com (Postfix) with ESMTP id 64CF460060	for
+ <user@domain>; Mon, 16 Jun 2015 10:58:08 +0100 (BST)
+Received: by domain.com (Postfix)	id 1AC41B6603C; Mon, 16 Jun 2015 
+ 12:10:24 +0200 (CEST)
+Delivered-To: user@domain
+Received: from [172.20.20.150] (unknown [172.20.20.150])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 0A729B6600D;	Mon, 16 Jun
+ 2015 12:10:24 +0200 (CEST)
+Message-ID: <user@domain>
+Date: Mon, 16 Jun 2015 12:10:23 +0200
+From: Emanuele Placidi <user@domain>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+To: Fabrizio organizationi <user@domain>
+CC: <user@domain>
+Subject: Re: Buongiorno e benvenuti.
+References: <user@domain>
+In-Reply-To: <user@domain>
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=domain/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMANUELE PLACIDIEA3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-765567701_-_-"
+
+    Grazie!
+
+    ml checked!
+
+
+
+
+      Buongiorno e benvenuti.
+      :)
+
+--
+Fabrizio organizationi
+
+            Senior Software Developer
+
+            organization
+
+            Milan Singapore Washington DC
+
+www.domain.com
+
+            email: user@domain
+
+            mobile: +39 3666539755
+
+            phone: +39 0229060603
+
+-- 
+Emanuele Placidi
+X Software Developer
+
+organization
+Milan Singapore Washington DC
+www.domain.com
+
+email: user@domain
+mobile: +39 <unknown>
+phone: +39 <unknown>

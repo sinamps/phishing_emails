@@ -1,0 +1,44 @@
+From: Patrice Taylor <user@domain>
+To: "User"
+	<+1 (703) user@domain>, Patrice Taylor <user@domain>, "User,
+ User" <user@domain>
+Subject: Conference call with +1 (215) 398-5252, +1 (703) 672-2725, Patrice
+ Taylor
+Thread-Topic: Conference call with +1 (215) 398-5252, +1 (703) 672-2725,
+ Patrice Taylor
+Thread-Index: AdGqNQ7QG7uWuxnrHM7lK9Pf+p8P+A==
+Content-Class: voice-uc
+Date: Mon, 9 May 2015 14:27:46 -0700
+Message-ID: <user@domain>
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_05E01258E71AC046852ED29DFCD139D54DF134CDdomaindag1domainorg_"
+MIME-Version: 1.0
+
+Conference call with +1 (215) 398-5252, +1 (703) 672-2725, Patrice Taylor
+Duration: 30 Minutes 38 Seconds
+
++1 (703) 672-2725
+
+Other:  +1 (703) 672-2725<tel:+17036722725>
+
++1 (215) 398-5252
+
+Other:  +1 (215) 398-5252<tel:+12153985252>
+
+Patrice Taylor
+Director, Party Affairs & Delegate Selection
+Mobile:         +2027870754<tel:+2027870754>
+
+Work:   +1 (202) 863-8046<tel:+12028638046>
+
+Mobile:         (202) 787-0754<tel:+12027870754>
+
+Email:  user@domain<mailto:user@domain>
+
+IM:     user@domain<sip:user@domain>
+
+Microsoft Lync

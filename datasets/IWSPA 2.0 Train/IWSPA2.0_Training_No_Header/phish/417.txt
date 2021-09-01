@@ -1,0 +1,7 @@
+Dear user@domain,
+You have received a new message from organization organization Admin System sent to you via Blackboard Learning System.
+<<link>>
+Greetings,
+organization organization
+This email has been sent from a virus-free computer protected by Avast.
+www.avast.com

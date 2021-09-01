@@ -1,0 +1,37 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 16 May 2015 16:10:14 -0400
+From: "Kauffman, Nathan" <user@domain>
+To: Comm_D <user@domain>
+CC: "user@domain" <user@domain>
+Subject: Video Request: Pierson on Fox Business
+Thread-Topic: Video Request: Pierson on Fox Business
+Thread-Index: AdGvrvO4ud6sObrnR2ONGcM5L1If3g==
+Date: Mon, 16 May 2015 13:10:14 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.60]
+Content-Type: multipart/related;
+	boundary="_004_38B3FFE8C9F1BB4DBB1673ED71FC619D4CF98AD3domaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Posted at 4:07
+<mailto:%user@domain:%20>
+@FoxBusiness: <mailto:%user@domain:%20> .@KatrinaPierson<<<link>>>: "There are a number of women who have had very positive experiences with [@realDonaldTrump<<<link>>>]." domain.com/oeRo2W2hvC<<<link>>>
+
+[Media preview]
+
+--
+Nathan Kauffman
+OrganizationResearch Associate
+574-849-4726
+

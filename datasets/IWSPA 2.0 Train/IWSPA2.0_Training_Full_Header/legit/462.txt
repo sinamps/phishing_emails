@@ -1,0 +1,24 @@
+From: Alberto Ornaghi <user@domain>
+X-Smtp-Server: domain.com:alor
+Subject: skype
+Message-ID: <user@domain>
+X-Universally-Unique-Identifier: 7B58D2EA-86A0-40C4-93FC-E3C2919CA9FC
+Date: Thu, 30 Oct 2015 15:19:17 +0100
+To: Andrea Di Pasquale <user@domain>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+accendi skype…
+
+--
+Alberto Ornaghi
+Software Architect
+
+organization
+Milan Singapore Washington DC
+www.domain.com
+email: user@domain
+mobile: +39 3480115642office: +39 02 29060603 
+

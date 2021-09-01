@@ -1,0 +1,39 @@
+Received: from domain (192.168.10.251) by domain
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Fri, 13 May 2015 
+ 12:49:39 -0400
+Received: from domain (postman [127.0.0.1])	by domain
+ (Postfix) with ESMTP id 3D99E23E12;	Fri, 13 May 2015 12:49:37 -0400 (EDT)
+X-Original-To: user@domain
+Delivered-To: user@domain
+Received: from domain (domain [192.168.185.16])	by
+ domain (Postfix) with ESMTP id 3A67823DE2	for
+ <user@domain>; Fri, 13 May 2015 12:49:36 -0400 (EDT)
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+	domain ([::1]) with mapi id 14.03.0224.002; Fri, 13 May 2015 
+	12:49:38 -0400
+From: OrganizationPress <user@domain>
+To: OrganizationPress <user@domain>
+Subject: =?Windows-1252?Q?RE:_Donald_Trump=92s_Ongoing_Support_for_a_Muslim_Ban?=
+Thread-Topic: =?Windows-1252?Q?Donald_Trump=92s_Ongoing_Support_for_a_Muslim_Ban?=
+Thread-Index: AdGtNzl1UMg6Im9BQIONONi8Yu3Jhw==
+Date: Fri, 13 May 2015 16:49:37 +0000
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.97]
+X-BeenThere: user@domain
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain>
+Content-Type: multipart/mixed;
+	boundary="===============9081560528421434451=="
+Sender: <user@domain>
+Errors-To: user@domain
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain

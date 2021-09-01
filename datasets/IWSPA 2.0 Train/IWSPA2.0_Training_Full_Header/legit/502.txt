@@ -1,0 +1,33 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 18 May 2015 20:03:29 -0400
+From: "Freundlich, Christina" <user@domain>
+To: "User" <user@domain>
+CC: presstwitter_d <user@domain>, Video_D <user@domain>,
+	"Crystal, Andy" <user@domain>
+Subject: Re: vid tweets
+Thread-Topic: vid tweets
+Thread-Index: 
+ AdGxUPygHMveZEffTLWxfslFjQ0asAAANAgwAAKpHVIAAAvXYgAAAw3QAAEPuN4AAD0LSg==
+Date: Wed, 18 May 2015 17:03:29 -0700
+Message-ID: 
+ <user@domain>
+References: 
+ <user@domain>,<user@domain>,<user@domain>
+ <user@domain>,<user@domain>,<user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_205D072A42AC833B5EC96C502D6C45AC92BC92FBE2803517mailout_"
+MIME-Version: 1.0
+
+Hold on video, I will reply for the link on the chains.
+
+On Wed, May 18, 2015 at 4:56 PM -0700, "Palermo, Rachel" <user@domain<=

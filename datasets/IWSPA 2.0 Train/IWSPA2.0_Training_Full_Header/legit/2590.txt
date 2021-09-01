@@ -1,0 +1,41 @@
+Received: from domain (192.168.10.251) by domain
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Wed, 27 Apr 2015 
+ 15:06:38 -0400
+Received: from domain (postman [127.0.0.1])	by domain
+ (Postfix) with ESMTP id CC2BA23A3D;	Wed, 27 Apr 2015 15:06:34 -0400 (EDT)
+X-Original-To: user@domain
+Delivered-To: user@domain
+Received: from domain (domain [192.168.185.16])	by
+ domain (Postfix) with ESMTP id 383A123F6C;	Wed, 27 Apr 2015 15:06:31
+ -0400 (EDT)
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+	domain ([::1]) with mapi id 14.03.0224.002; Wed, 27 Apr 2015 
+	15:06:34 -0400
+From: OrganizationPress <user@domain>
+To: OrganizationPress <user@domain>
+Subject: =?Windows-1252?Q?Statement_on_Announcement_of_Carly_Fiorina_as_Ted_Cruz?=
+	=?Windows-1252?Q?=92s_Running_Mate?=
+Thread-Topic: =?Windows-1252?Q?Statement_on_Announcement_of_Carly_Fiorina_as_Ted_Cruz?=
+	=?Windows-1252?Q?=92s_Running_Mate?=
+Thread-Index: AdGgt8/iANnJ5kGMQkCSVkldQ1e3OQ==
+Date: Wed, 27 Apr 2015 19:06:33 +0000
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.122]
+X-BeenThere: user@domain
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain>
+Content-Type: multipart/mixed;
+	boundary="===============4613482600633477300=="
+Sender: <user@domain>
+Errors-To: user@domain
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain

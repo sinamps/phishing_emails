@@ -1,0 +1,39 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Tue, 17 May 2015 
+ 17:59:01 -0400
+From: "Manriquez, Pablo" <user@domain>
+To: "User" <user@domain>
+CC: "Malasky, Mitch" <user@domain>, "Geller, Eddie" <user@domain>,
+	"Banfill, Ryan" <user@domain>, Bookin_D <user@domain>
+Subject: Re: DWS tonight
+Thread-Topic: DWS tonight
+Thread-Index: 
+ AdGwcUlSlbFLwZfwREyapkRWHBLnOAAKKhAA//+/J2v///6cIIAARrUAgAAU14CAAEL14P//fnse
+Date: Tue, 17 May 2015 14:59:00 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>,<user@domain>
+In-Reply-To: 
+ <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_84D56A81C9714D7EB71E7FC7BC83971Adomainorg_"
+MIME-Version: 1.0
+
+Perfect! Copying Mitch, Eddie, from our studio to facilitate patch-in!
+
+Sent from my iPhone
+
+On May 17, 2016, at 5:43 PM, Koerber, Ashley <user@domain<ma=

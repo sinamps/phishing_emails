@@ -1,0 +1,64 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 16 May 2015 17:13:26 -0400
+From: "Smith IV, Malbert" <user@domain>
+To: "User" <user@domain>, Andrew Brown <user@domain>, Brad
+ Marshall <user@domain>, "Compton, Matt" <user@domain>, "Greene,
+ Julie" <user@domain>, "Kaplan, Jordan" <user@domain>, Lindsey
+ Reynolds <user@domain>, Maureen Garde <user@domain>, Patrice Taylor
+	<user@domain>, Pratt Wiley <user@domain>, Tracie Pough
+	<user@domain>, "Ward, Collin" <user@domain>, Gregory Hinton
+	<user@domain>, Kate Houghton <user@domain>, "Rangappa, Anu"
+	<user@domain>, "Wartel, Jonae" <user@domain>, "Dillon, Lauren"
+	<user@domain>, "Dacey, Amy" <user@domain>, "User"
+	<user@domain>, "Davis, Marilyn" <user@domain>
+CC: "Sullivan, Molly" <user@domain>, "Gottschalk-Marconi, Emily"
+	<user@domain>, "Tankin, Noah" <user@domain>, "Palermo,
+ Rachel" <user@domain>, "Moore, Colby" <user@domain>, "Guerra, Liana"
+	<user@domain>, "Sullivan, Erin" <user@domain>, "Herries, Rebecca"
+	<user@domain>, "Graham, Moriah" <user@domain>, "Scott, Jillian"
+	<user@domain>, "Smith IV, Malbert" <user@domain>
+Subject: Agenda for Senior Staff Meeting | May 17, 2015 
+Thread-Topic: Agenda for Senior Staff Meeting | May 17, 2015 
+Thread-Index: AdGvt1nNyNy42bCmSfCvprRJAjEGqg==
+Date: Mon, 16 May 2015 14:13:26 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.125]
+Content-Type: multipart/alternative;
+	boundary="_000_FFB6540C3ED9B644A69FBFDC026DB4F201068B21domaindag1domainorg_"
+MIME-Version: 1.0
+
+Hi everyone,
+
+Please see the agenda below for the Senior Staff Meeting scheduled on May 17, 2015 at 10:00 a.m. ET. Please note that this meeting will take place in the Training Room.
+
+Thank you and please let me know if you have any further questions.
+
+Best wishes,
+Mally
+
+AGENDA
+May 17, 2015 
+
+10:00 AM ~ Training Room
+
+  *   SCOTUS Update
+  *   2015 Planning
+  *   Department Updates
+  *   Operations Updates
+
+Next Meeting:  May 24, 2015 
+
+If you cannot join us in-person tomorrow, please call-in using the conference information below:
+
+DOMESTIC DIAL IN:          866-810-8093
+CONFERENCE CODE:        586-742-1034
+

@@ -1,0 +1,52 @@
+Received: from relay.domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Thu, 9 Apr 2015 10:25:20 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.domain.com (Postfix) with ESMTP id C7B9F6037E;	Thu,  9 Apr 2015 
+ 09:02:44 +0100 (BST)
+Received: by domain.com (Postfix)	id 8F9352BC0D9; Thu,  9 Apr 2015 
+ 10:25:20 +0200 (CEST)
+Delivered-To: user@domain
+Received: from [192.168.169.242]
+ (host138-246-static.50-88-domain.com [88.50.246.138])	(using
+ TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))	(No client certificate
+ requested)	by domain.com (Postfix) with ESMTPSA id 4506F2BC036;	Thu,
+  9 Apr 2015 10:25:06 +0200 (CEST)
+From: Daniele Milan <user@domain>
+Message-ID: <user@domain>
+Date: Thu, 9 Apr 2015 10:25:03 +0200
+Subject: Communicating vacation/leaves or unavailability
+CC: Alessandro Scarafile <user@domain>, amministrazione
+	<user@domain>
+To: =?utf-8?Q?=22Sergio_R=2E-Sol=C3=ADs=22?= <user@domain>, Daniel
+ Martinez <user@domain>, Eduardo Pardo
+	<user@domain>, Eugene Ho <user@domain>
+X-Mailer: Apple Mail (2.2070.6)
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=domain/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DANIELE MILAN5AF
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1729200687_-_-"
+
+Dear Colleagues,
+I would like to clarify the process to communicate unavailability (e.g., illness, personal impediments) or ask for vacations.Kindly follow this indications to avoid misunderstandings.
+1. If you are asking for vacation/leave, check with Alessandro for the period you intend to ask. Alessandro will approve or negate based on the planned activities;2. in any case, vacation or unavailability must be promptly communicated to user@domain
+Please mind that this communication is specific for you who are not resident in Italy.
+Thanks for your cooperation,Daniele
+
+--
+Daniele Milan
+Operations Manager
+
+domain
+Milan Singapore WashingtonDC
+www.domain.com
+
+email: user@domain
+mobile: + 39 334 6221194
+phone:  +39 02 29060603
+

@@ -1,0 +1,32 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Mon, 2 May 2015 
+ 12:53:23 -0400
+From: "Abdullah, Zain" <user@domain>
+To: Brad Marshall <user@domain>, Manisha Patel <user@domain>,
+	"Tobias, Andy" <user@domain>, "Dacey, Amy" <user@domain>,
+	"Kaplan, Jordan" <user@domain>, "Compton, Matt" <user@domain>,
+	Lindsey Reynolds <user@domain>, "Ward, Collin" <user@domain>
+Subject: Cash Sheet
+Thread-Topic: Cash Sheet
+Thread-Index: AdGkkqcvuCYake73QIigo4eLGUUWoQ==
+Date: Mon, 2 May 2015 09:53:22 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/mixed;
+	boundary="_005_B1E079A304F0CC4F905A1118915CB3BB6EAC725Cdomaindag1domainorg_"
+MIME-Version: 1.0
+
+Good Afternoon,
+
+Attached is the final updated cash sheet for April 2015 and the updated one for May 2016.
+
+Best Regards,
+
+Zain

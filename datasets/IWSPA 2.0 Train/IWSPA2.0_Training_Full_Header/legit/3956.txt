@@ -1,0 +1,31 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Sat, 14 May 2015 22:36:08 -0400
+From: Kate Houghton <user@domain>
+To: "User" <user@domain>
+CC: "User" <user@domain>, "Paustenbach, Mark"
+	<user@domain>, "Manriquez, Pablo" <user@domain>, House Anna
+ Stolitzka <user@domain>, "Bonosky, Garret"
+	<user@domain>
+Subject: Re: Booking Windows for Coming Week
+Thread-Topic: Booking Windows for Coming Week
+Thread-Index: AdGuUWneKgYQ7GjlS2CV/vHqUZG1LgAIqRyA
+Date: Sat, 14 May 2015 19:36:06 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.185.18]
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <user@domain>
+MIME-Version: 1.0
+
+Can we hold on this until I get an idea about what the votes look like?  These windows may not be available after hear from leadership on Monday. 
+

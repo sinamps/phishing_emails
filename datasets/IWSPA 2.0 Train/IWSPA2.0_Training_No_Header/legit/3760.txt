@@ -1,0 +1,15 @@
+Sorry--one more error. The MSE values for "minimum norm" and "minimum roughness" are
+switched in the figure legend. Obviously the former is a better fit...
+mike
+Date: Tue, 14 Oct 2003 17:08:49 -0400
+To: Tom Wigley <user@domain>, Kevin Trenberth <user@domain>, Keith Briffa
+<user@domain>, Phil Jones <user@domain>, user@domain,
+user@domain, user@domain, user@domain
+From: "Michael E. Mann" <user@domain>
+Subject: Re: smoothing
+Bcc: Scott Rutherford <user@domain>
+correction '1)' should read:
+'1) minimum norm: sets padded values equal to mean of available data beyond the
+available data (often the default constraint in smoothing routines)'
+sorry for the confusion,
+mike

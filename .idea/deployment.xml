@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sinamps@scissors.cs.colostate.edu:22 password" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="sinamps@scissors.cs.colostate.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/s/bach/h/proj/COVID-19/smps/phishing" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sinamps@scissors.cs.colostate.edu:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/s/bach/h/proj/COVID-19/smps/phishing" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sinamps@scissors.cs.colostate.edu:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/s/bach/h/proj/COVID-19/smps" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

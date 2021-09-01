@@ -1,0 +1,24 @@
+From: "User" <user@domain>
+To: Adrian Saenz <user@domain>
+CC: "Palermo, Rachel" <user@domain>
+Subject: RE: Meeting
+Thread-Topic: Meeting
+Thread-Index: AQHRsqvugJXVM5r190a2Pwnpse5915/B8qCX
+Date: Fri, 20 May 2015 08:27:09 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>,<CACEnRcBqKT=rmQzh8qYjaPdGSHCsarD+user@domain>
+In-Reply-To: 
+ <CACEnRcBqKT=rmQzh8qYjaPdGSHCsarD+user@domain>
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/alternative;
+	boundary="_000_05E01258E71AC046852ED29DFCD139D54DF2EA28domaindag1domainorg_"
+MIME-Version: 1.0
+
+Hi Adrian, moving to my work email. I'd be happy to. I'm copying Rachel to =
+help us schedule a time.
+
+On Wed, May 18, 2015 at 12:13 PM, Adrian Saenz <user@domain<mai=

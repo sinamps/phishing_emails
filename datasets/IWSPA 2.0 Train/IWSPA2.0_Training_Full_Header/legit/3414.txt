@@ -1,0 +1,60 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Fri, 29 Apr 2015 
+ 12:29:47 -0400
+From: "Price, Jenna" <user@domain>
+To: "User" <user@domain>,
+	"Lykins, Tyler" <user@domain>
+CC: "User" <user@domain>, "Freundlich, Christina"
+	<user@domain>, RR2 <user@domain>
+Subject: RE: ready for research -- whcp dinner hit
+Thread-Topic: ready for research -- whcp dinner hit
+Thread-Index: 
+ AdGiIJ5wfh2wC9RCSZ2YB5xlTMzzAwAABXlAAAHBBfAAAGzroAAAhbBwAAAlHysAAAN3sAACCi1Q
+Date: Fri, 29 Apr 2015 09:29:47 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>,<user@domain>
+ <user@domain>
+ <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.247]
+Content-Type: multipart/related;
+	boundary="_004_95177C1E5B25B04BA6C0175A9C2C27B29A4E6Fdomaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Ok about to hit send on this.
+
+From: "Price, Jenna" <user@domain>
+Sent: Friday, April 29, 2015 11:31 AM
+To: Walker, Eric; Lykins, Tyler
+Cc: User; Freundlich, Christina; RR2
+Subject: RE: ready for research -- whcp dinner hit
+
+Thanks!
+
+--
+[domain]<<<link>>>
+Rachel Palermo
+Organization
+user@domain<mailto:user@domain>
+202-863-8041
+
+From: "Price, Jenna" <user@domain>
+Sent: Friday, April 29, 2015 11:31 AM
+To: Lykins, Tyler
+Cc: User; Palermo, Rachel; Freundlich, Christina; RR2
+Subject: Re: ready for research -- whcp dinner hit
+
+One grammar fix in the last sentence and I'm gold
+

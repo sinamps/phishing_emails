@@ -1,0 +1,31 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Mon, 25 Apr 2015 
+ 12:21:42 -0400
+From: "Cox, Clayton" <user@domain>
+To: "User" <user@domain>
+CC: "Kaplan, Jordan" <user@domain>
+Subject: Re: Finance Meeting with Amy
+Thread-Topic: Finance Meeting with Amy
+Thread-Index: AdGe/7oBzPiIXJKESOi2UlbfjeZlGAADtMfk
+Date: Mon, 25 Apr 2015 09:21:42 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_543635EB2D6B44399685E7302B6616C7domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Going to be on a plane. Please take notes. Okay.
+
+Sent from my iPhone
+
+On Apr 25, 2016, at 4:39 PM, Comer, Scott <user@domain<mailto:user@domain=

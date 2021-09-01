@@ -1,0 +1,4 @@
+Dear [netID Email]@organization.edu
+You have a message from the Human Resources Department.
+Click here to view your message
+Copyright © 2017 organization| All rights reserved

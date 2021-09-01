@@ -1,0 +1,32 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Sun, 24 Apr 2015 
+ 14:17:23 -0400
+From: "Palermo, Rachel" <user@domain>
+To: "User" <user@domain>
+CC: "User" <user@domain>, "Alvillar, Raul" <user@domain>
+Subject: Re: Meeting and SURROGATE LISTS (Excel lists)
+Thread-Topic: Meeting and SURROGATE LISTS (Excel lists)
+Thread-Index: AdGb8d1i0/zKoX8tQYSp5B5oUqVG+wCXTVGAAAGeWeA=
+Date: Sun, 24 Apr 2015 11:17:23 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_02491D8C89924291B0DBDEB4199A80C1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+What's your availability on Tuesday and Wednesday? I can schedule a meeting=
+ with User.
+
+Sent from my iPhone
+
+On Apr 24, 2016, at 1:33 PM, Sanchez, Jennifer <user@domain<mailto:San=

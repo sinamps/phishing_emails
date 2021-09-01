@@ -1,0 +1,24 @@
+From: "User" <user@domain>
+To: Stewart Boss <user@domain>
+CC: "Garcia, Walter" <user@domain>, "Paustenbach, Mark"
+	<user@domain>, "Walker, Eric" <user@domain>
+Subject: Complaint today?
+Thread-Topic: Complaint today?
+Thread-Index: AdGvwu+ccm25144rRG6/SXs6cc2E5A==
+Date: Mon, 16 May 2015 15:33:58 -0700
+Message-ID: <user@domain>
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_05E01258E71AC046852ED29DFCD139D54DF23E37domaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Stewart, in addition to the Medium Post, rumor has it - from reporter calls --- that you guys are releasing some kind of complaint that includes audio of death threats. What's going on?
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain<mailto:user@domain> - User<<<link>>>
+

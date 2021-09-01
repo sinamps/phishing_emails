@@ -1,0 +1,70 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Thu, 28 Apr 2015 13:06:08 -0400
+From: "Palermo, Rachel" <user@domain>
+To: "User" <user@domain>
+CC: "Paustenbach, Mark" <user@domain>, "User"
+	<user@domain>
+Subject: RE: OrganizationCheck-in w/ User and Mark - 4/28 @ 12:00pm EST
+Thread-Topic: OrganizationCheck-in w/ User and Mark - 4/28 @ 12:00pm EST
+Thread-Index: 
+ AdGgd3Lft46KLAZMSJq2isiX1rV3NQAAbB5wAAAy9eMAAB5gDgA9VSOAAAAXtRAAAAU6oA==
+Date: Thu, 28 Apr 2015 10:06:08 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>,<user@domain>,<user@domain>
+ <user@domain>
+  <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.122]
+Content-Type: multipart/related;
+	boundary="_004_6E20703C3B98FC4D97E277223738C7A74DA998FCdomaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Thanks for the heads up-let me know her availability
+
+--
+[domain]<<<link>>>
+Rachel Palermo
+Organization
+user@domain<mailto:user@domain>
+202-863-8041
+
+From: "Palermo, Rachel" <user@domain>
+Sent: Thursday, April 28, 2015 1:05 PM
+To: Palermo, Rachel
+Cc: Paustenbach, Mark
+Subject: RE: OrganizationCheck-in w/ User and Mark - 4/28 @ 12:00pm EST
+
+Need to reschedule this check in for later; votes got called
+
+From: "Palermo, Rachel" <user@domain>
+Sent: Thursday, April 28, 2015 1:03 PM
+To: Palermo, Rachel
+Cc: Paustenbach, Mark
+Subject: RE: OrganizationCheck-in w/ User and Mark - 4/28 @ 12:00pm EST
+
+Chairwoman en route to domain
+
+From: "Palermo, Rachel" <user@domain>
+Sent: Wednesday, April 27, 2015 7:46 AM
+To: Palermo, Rachel
+Cc: Paustenbach, Mark
+Subject: Re: OrganizationCheck-in w/ User and Mark - 4/28 @ 12:00pm EST
+
+1:00pm works for us thanks
+
+Garret Bonosky
+Deputy Director
+Office of the Chair
+Organization
+

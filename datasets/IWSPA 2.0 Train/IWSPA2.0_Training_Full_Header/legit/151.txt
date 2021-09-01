@@ -1,0 +1,41 @@
+Received: from domain (192.168.10.251) by domain
+ (192.168.185.16) with Microsoft SMTP Server id 14.3.224.2; Thu, 5 May 2015 
+ 18:00:24 -0400
+Received: from domain (postman [127.0.0.1])	by domain
+ (Postfix) with ESMTP id C2E8523CB9;	Thu,  5 May 2015 18:00:23 -0400 (EDT)
+X-Original-To: user@domain
+Delivered-To: user@domain
+Received: from domain (domain [192.168.185.16])	by
+ domain (Postfix) with ESMTP id 7960F200DE;	Thu,  5 May 2015 18:00:22
+ -0400 (EDT)
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+	domain ([::1]) with mapi id 14.03.0224.002; Thu, 5 May 2015 
+	18:00:22 -0400
+From: OrganizationPress <user@domain>
+To: OrganizationPress <user@domain>
+Subject: EXCERPTS: Randi Weingarten Says Trump Has Created 'Bullying
+	Environment' In Schools
+Thread-Topic: EXCERPTS: Randi Weingarten Says Trump Has Created 'Bullying
+	Environment' In Schools
+Thread-Index: AdGnGTv0KcexbQcdR3e8Bspq8sPLMw==
+Date: Thu, 5 May 2015 22:00:22 +0000
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.223]
+X-BeenThere: user@domain
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: <user@domain>
+Content-Type: multipart/mixed;
+	boundary="===============3910812655761216505=="
+Sender: <user@domain>
+Errors-To: user@domain
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Exchange-Organization-AuthAs: Anonymous
+MIME-Version: 1.0
+
+To be automatically unsubscribed from this list, please email: user@domain

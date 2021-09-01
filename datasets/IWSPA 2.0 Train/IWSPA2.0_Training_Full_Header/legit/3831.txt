@@ -1,0 +1,51 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 18 May 2015 15:18:32 -0400
+From: "Christopher, Rebecca" <user@domain>
+To: "User" <user@domain>, Video-Vetting_d
+	<user@domain>
+CC: "Manriquez, Pablo" <user@domain>, "Bhatnagar, Akshai"
+	<user@domain>
+Subject: Re: New video: Spanish-language video on Trump campaign violence
+Thread-Topic: New video: Spanish-language video on Trump campaign violence
+Thread-Index: AQHRsHOUYZbWoBMt3EGr5ivVCru7NJ+/EzmA
+Date: Wed, 18 May 2015 12:18:32 -0700
+Message-ID: <D361EE36.A75C6%user@domain>
+References: <D360EB45.A751A%user@domain>
+In-Reply-To: <D360EB45.A751A%user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.122]
+Content-Type: multipart/alternative;
+	boundary="_000_D361EE36A75C6christopherrdomainorg_"
+MIME-Version: 1.0
+
+Hi everyone! Cut is on fileshare below, let me know how it=92s looking and =
+thank you:
+
+<<link>>
+
+From: "Christopher, Rebecca" <user@domain>
+
+Date: Tuesday, May 17, 2015 at 3:37 PM
+To: Video-Vetting_d <user@domain<mailto:user@domain=
+
+Cc: "Manriquez, Pablo" <user@domain<mailto:user@domain>>, "Bh=
+atnagar, Akshai" <user@domain<mailto:user@domain>>
+Subject: New video: Spanish-language video on Trump campaign violence
+
+Hi everyone,
+
+Attached is the script for a cut of Spanish-language commentary on violence=
+ inspired by Donald Trump=92s campaign. This is (I believe) going straight =
+to Reuters for a specific article.
+
+I believe User has already signed off, but if anyone from comms or research=
+ has any questions please let me know! Thank you.

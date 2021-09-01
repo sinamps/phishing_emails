@@ -1,0 +1,40 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Fri, 6 May 2015 
+ 16:45:06 -0400
+From: "Crystal, Andy" <user@domain>
+To: "User"
+	<user@domain>
+CC: "Roberts, Kelly" <user@domain>, Comm_D <user@domain>
+Subject: RE: Sunday shows
+Thread-Topic: Sunday shows
+Thread-Index: AdGnktt5MTZOtjmpQxm5kjKLvamucQAMhgfQAATDRLoAAAn80A==
+Date: Fri, 6 May 2015 13:45:06 -0700
+Message-ID: <user@domain>
+References: 
+ <user@domain>,<user@domain>
+ <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.187]
+Content-Type: multipart/alternative;
+	boundary="_000_F0691438AC417845A6BA92342CE019776ECBD0B4domaindag1domainorg_"
+MIME-Version: 1.0
+
+Im on for research
+
+From: "Crystal, Andy" <user@domain>
+Sent: Friday, May 06, 2015 4:44 PM
+To: Oslund, Joseph
+Cc: Roberts, Kelly; Comm_D
+Subject: Re: Sunday shows
+
+I'm on for video.
+

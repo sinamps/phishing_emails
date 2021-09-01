@@ -1,0 +1,27 @@
+From: Alberto Ornaghi <user@domain>
+X-Smtp-Server: domain.com:alor
+Subject: =?iso-8859-1?Q?Ma_perch=E9_il_tiramis=F9_deve_essere_maltrattato?=
+ =?iso-8859-1?Q?=3F?=
+Message-ID: <user@domain>
+X-Universally-Unique-Identifier: 8ac792a8-2462-49b6-ab4f-10d6cfc5a6eb
+Date: Thu, 1 Aug 2015 16:15:42 +0200
+To: Alberto Q Pelliccione <user@domain>,
+ Fabio Busatto <user@domain>,
+ Antonella Capaldo <user@domain>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1561796924_-_-"
+
+<<link>>
+
+--
+Alberto Ornaghi
+Software Architect
+
+organization
+Milan Singapore Washington DC
+www.domain.com
+email: user@domain
+mobile: +39 3480115642office: +39 02 29060603 
+

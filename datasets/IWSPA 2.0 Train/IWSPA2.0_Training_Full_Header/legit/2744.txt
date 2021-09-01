@@ -1,0 +1,35 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Thu, 12 May 2015 
+ 11:44:03 -0400
+From: "Bonosky, Garret" <user@domain>
+To: "User"Hilary Rosen
+ (user@domain)" <user@domain>, "User"
+	<user@domain>, "Banfill, Ryan" <user@domain>
+CC: "Dacey, Amy" <user@domain>, Tracie Pough <user@domain>, "Herries,
+ Rebecca" <user@domain>, Philippa Martinez-Berrier
+	<user@domain>, "Guerra, Liana" <user@domain>,
+	"Palermo, Rachel" <user@domain>
+Subject: MTG. REQUEST: OrganizationComms Strategy - 5/19 @ 3:30pm EST-4:30pm EST
+Thread-Topic: MTG. REQUEST: OrganizationComms Strategy - 5/19 @ 3:30pm EST-4:30pm EST
+Thread-Index: AdGsZQ6m0jg3JdeURAWoE4hBZStpEg==
+Date: Thu, 12 May 2015 08:44:03 -0700
+Message-ID: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.176.103]
+Content-Type: multipart/alternative;
+	boundary="_000_2EF1CAC3C7B5554CB6B5E13F3F018955FE536874domaindag1domainorg_"
+MIME-Version: 1.0
+
+Hi Everyone - The Chairwoman and Amy Dacey would like to meet with you to discuss the OrganizationComms Strategy. Are you available to meet on 5/19 at 3:30pm EST-4:30pm EST at the domain? Thank you.
+
+Garret Bonosky
+Deputy Director, Office of the Chair
+Organization
+

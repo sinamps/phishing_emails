@@ -1,0 +1,44 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([::1]) with mapi id 14.03.0224.002; Thu, 5 May 2015 
+ 21:48:20 -0400
+From: "Logan, Olivia" <user@domain>
+To: "User" <user@domain>, Comm_D <user@domain>
+Subject: RE: video request: Gingrich on WSB-TV
+Thread-Topic: video request: Gingrich on WSB-TV
+Thread-Index: AdGnHPZlEUFVxbOJTTKbYYiJZTk+fAAHFrng
+Date: Thu, 5 May 2015 18:48:19 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.18.54]
+Content-Type: multipart/alternative;
+	boundary="_000_BB2EEA30B032AA4984071D25DAB0E444AB24A4domaindag1domainorg_"
+MIME-Version: 1.0
+
+Watch<<<link>>>
+
+From: "Logan, Olivia" <user@domain>
+Sent: Thursday, May 05, 2015 6:25 PM
+To: Comm_D
+Subject: video request: Gingrich on WSB-TV
+
+Was on at 6:07pm
+<<link>>
+
+__________
+Shu-Yen Wei
+Northeast Press Secretary
+AAPI & Women's Media
+Organization
+207-512-0005
+user@domain<mailto:user@domain>
+

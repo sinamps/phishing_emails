@@ -1,0 +1,47 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Mon, 16 May 2015 16:57:43 -0400
+From: "Price, Jenna" <user@domain>
+To: "User"
+	<user@domain>, "Palermo, Rachel" <user@domain>, "Jefferson, Deshundra"
+	<user@domain>
+CC: "Sullivan, Erin" <user@domain>, "Debose, Levi" <user@domain>,
+	Regional Press <user@domain>
+Subject: RE: monitoring shifts for tuesday's primaries
+Thread-Topic: monitoring shifts for tuesday's primaries
+Thread-Index: 
+ AdGtWbMsNK+gunwGTvCyf29TDuP0bwAAC9WgAAAE9eAAho7TnAAGMADAAAmOWFAAADmP8AAAFdoQAAA/onA=
+Date: Mon, 16 May 2015 13:57:42 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>,<user@domain>
+ <user@domain>,<user@domain>
+ <user@domain>,<user@domain>
+ <user@domain>
+In-Reply-To: 
+ <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.20]
+Content-Type: multipart/related;
+	boundary="_004_95177C1E5B25B04BA6C0175A9C2C27B29CB78Cdomaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+I can take the CNN monitoring shift!
+
+From: "Price, Jenna" <user@domain>
+Sent: Monday, May 16, 2015 4:49 PM
+To: Wei, Shu-Yen; Palermo, Rachel; Jefferson, Deshundra
+Cc: Sullivan, Erin; Debose, Levi; Regional Press
+Subject: RE: monitoring shifts for tuesday's primaries
+
+Okay well whatever. I will do fox anyway. Who is doing CNN
+

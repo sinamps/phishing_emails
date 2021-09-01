@@ -1,0 +1,23 @@
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_5B1981DA-9D84-4E47-89E5-08AB5C959EA9"
+Subject: Re: can't remember
+X-Universally-Unique-Identifier: CBBABD02-5A48-4E6F-AE2F-B50723FE0C86
+From: Jordan Kaplan <user@domain>
+In-Reply-To: <user@domain>
+Date: Thu, 12 May 2015 16:37:43 -0400
+CC: Valerie Friedman <user@domain>, "Mahoney, Caitria"
+	<user@domain>
+Message-ID: <user@domain>
+X-Smtp-Server: C6C38CC7-AF1C-4C17-AB9E-879844FB845B
+References: <user@domain>
+To: Bobby Schmuck <user@domain>
+MIME-Version: 1.0
+
+We have the dinner.=20
+
+Jordan Kaplan
+National Finance Director
+Organization
+(202) 488-5002 (o) | (312) 339-0224 (c)
+user@domain
+

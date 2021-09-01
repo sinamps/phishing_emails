@@ -1,0 +1,45 @@
+Received: from relay.domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Mon, 27 Apr 2015 11:21:05 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.domain.com (Postfix) with ESMTP id DD251621B2;	Mon, 27 Apr 2015 
+ 09:57:58 +0100 (BST)
+Received: by domain.com (Postfix)	id 4831BB6600F; Mon, 27 Apr 2015 
+ 11:21:05 +0200 (CEST)
+Delivered-To: user@domain
+Received: from [172.20.20.150] (unknown [172.20.20.150])	(using TLSv1 with
+ cipher DHE-RSA-AES128-SHA (128/128 bits))	(No client certificate requested)
+	by domain.com (Postfix) with ESMTPSA id 3E072B6600B;	Mon, 27 Apr
+ 2015 11:21:05 +0200 (CEST)
+Message-ID: <user@domain>
+Date: Mon, 27 Apr 2015 11:20:44 +0200
+From: Emanuele Placidi <user@domain>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+To: Fabrizio organizationi <user@domain>,
+	<user@domain>
+Subject: Uscita anticipata
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=domain/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EMANUELE PLACIDIEA3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1792911213_-_-"
+
+Avrei bisogno di uscire mezzora prima oggi, che recupero in settimana.
+Grazie
+
+-- 
+Emanuele Placidi
+Senior Software Developer
+
+organization
+Milan Singapore Washington DC
+www.domain.com
+
+email: user@domain
+mobile: +39 3371115601
+phone: +39 0229060603
+

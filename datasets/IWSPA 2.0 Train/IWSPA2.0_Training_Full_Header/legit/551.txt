@@ -1,0 +1,65 @@
+Received: from relay.domain.com (192.168.100.52) by
+ domain.com (192.168.100.51) with Microsoft SMTP Server id
+ 14.3.123.3; Wed, 20 Aug 2015 22:20:02 +0200
+Received: from domain.com (unknown [192.168.100.50])	by
+ relay.domain.com (Postfix) with ESMTP id 2C36B6293B	for
+ <user@domain>; Wed, 20 Aug 2015 21:05:17 +0100 (BST)
+Received: by domain.com (Postfix)	id 02E182BC1F8; Wed, 20 Aug 2015 
+ 22:19:53 +0200 (CEST)
+Delivered-To: user@domain
+Received: from [192.168.20.105] (93-32-171-26.domain.com
+ [93.32.171.26])	(using TLSv1 with cipher AES128-SHA (128/128 bits))	(No
+ client certificate requested)	by domain.com (Postfix) with ESMTPSA
+ id 8DF5B2BC06A;	Wed, 20 Aug 2015 22:19:52 +0200 (CEST)
+References: <user@domain>
+In-Reply-To: <user@domain>
+Message-ID: <user@domain>
+CC: Matteo Oliva <user@domain>, Simonetta Gallucci
+	<user@domain>, "user@domain"
+	<user@domain>, Fabio Busatto <user@domain>,
+	Antonella Capaldo <user@domain>, "user@domain"
+	<user@domain>, "user@domain"
+	<user@domain>, Elisabetta Ciceri <user@domain>,
+	Giovanni Cino <user@domain>, Fabrizio organizationi
+	<user@domain>, "user@domain"
+	<user@domain>, Marco Fontana <user@domain>,
+	Walter Furlan <user@domain>, Diego Giubertoni
+	<user@domain>, Luca Guerra <user@domain>,
+	Lorenzo Invernizzi <user@domain>, Daniel Maglietta
+	<user@domain>, "user@domain"
+	<user@domain>, Antonio Mazzeo <user@domain>,
+	"Daniele Milan" <user@domain>, Daniele Molteni
+	<user@domain>, Bruno Muschitiello
+	<user@domain>, Alberto Ornaghi
+	<user@domain>, Eduardo Pardo Carvajal
+	<user@domain>, Emanuele Placidi <user@domain>,
+	Christian Pozzi <user@domain>,
+	=?utf-8?Q?Sergio_Rodriguez-Sol=C3=ADs_y_Guerrero?= <user@domain>,
+	Mauro Romeo <user@domain>, "user@domain"
+	<user@domain>, Alessandro Scarafile <user@domain>,
+	Emad Shehata <user@domain>, "user@domain"
+	<user@domain>, "user@domain"
+	<user@domain>
+X-Mailer: iPhone Mail (11D257)
+From: Marco Catino <user@domain>
+Subject: Re: R: Re: E Max si sposa!
+Date: Wed, 20 Aug 2015 22:19:43 +0200
+To: Marco Losito <user@domain>
+Return-Path: user@domain
+X-MS-Exchange-Organization-AuthSource: domain.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+Status: RO
+X-libpst-forensic-sender: /O=domain/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=MARCO CATINO146
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-663504278_-_-"
+
+Ci sono anche io. 
+M. 
+
+--
+Marco Catino
+Field Application Engineer
+
+Sent from my mobile.

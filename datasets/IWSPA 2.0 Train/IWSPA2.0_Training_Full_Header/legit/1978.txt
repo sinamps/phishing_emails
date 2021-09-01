@@ -1,0 +1,28 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Wed, 18 May 2015 12:38:16 -0400
+From: Claire Olszewski <user@domain>
+To: "User" <user@domain>
+Subject: Re: 
+Thread-Index: AQHRsR7qC2K4ajzqD0KqC4pTyPGsU5+/KCgA
+Date: Wed, 18 May 2015 09:38:14 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+Content-Type: multipart/related;
+	boundary="_004_1BF62DA46F5D445FB3F68F51DBC47959domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Driving back to Philly to bring all my domain.com home for the summer!
+
+Sent from my iPhone
+

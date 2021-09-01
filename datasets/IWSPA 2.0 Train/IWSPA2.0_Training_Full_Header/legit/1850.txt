@@ -1,0 +1,85 @@
+Received: from domain ([fe80::f85f:3b98:e405:6ebe]) by
+ domain ([fe80::ac16:e03c:a689:8203%11]) with mapi id
+ 14.03.0224.002; Tue, 3 May 2015 12:21:43 -0400
+From: "Walker, Eric" <user@domain>
+To: "User" <user@domain>
+Subject: RE: New Comms template
+Thread-Topic: New Comms template
+Thread-Index: 
+ AQHRpJC0zgmNlIOHo06sAVac+VgXRJ+nWBuwgABHkYCAAAHBAP//xJqQgABDqIA=
+Date: Tue, 3 May 2015 09:21:43 -0700
+Message-ID: <user@domain>
+References: <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>
+ <user@domain>
+In-Reply-To: <user@domain>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: domain
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.177.110]
+Content-Type: multipart/related;
+	boundary="_004_2AE4202A723DAE418719D2AC271C35F36EFA3D2Fdomaindag1domainorg_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+Yep - sorry I misread. They need final version by 6pm this evening. Please get to me ASAP - thanks
+
+From: "Walker, Eric" <user@domain>
+Sent: Tuesday, May 03, 2015 12:20 PM
+To: Garcia, Walter; Walker, Eric
+Subject: RE: New Comms template
+
+The interviews are tomorrow, so needs to be turned in today.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain<mailto:user@domain> - User<<<link>>>
+
+From: "Walker, Eric" <user@domain>
+Sent: Tuesday, May 03, 2015 11:52 AM
+To: Walker, Eric; User
+Subject: RE: New Comms template
+
+Got it. Will have to you by COB today.
+
+From: "Walker, Eric" <user@domain>
+Sent: Tuesday, May 03, 2015 11:46 AM
+To: User; Garcia, Walter
+Subject: RE: New Comms template
+
+Thanks Walter - need this by noon tomorrow so I have time to review and get to the chair's team. Thanks.
+
+From: "Walker, Eric" <user@domain>
+Sent: Tuesday, May 03, 2015 11:31 AM
+To: Garcia, Walter
+Cc: Walker, Eric
+Subject: FW: New Comms template
+
+Walter, please prepare the briefing for the Chair for tomorrow's interviews in Los Angeles using the attached template.
+
+[SigDems]<<<link>>>User, Communications Director
+Organization
+202-863-8148 - user@domain<mailto:user@domain> - User<<<link>>>
+
+From: "Walker, Eric" <user@domain>
+Sent: Monday, May 02, 2015 12:36 PM
+To: User; Paustenbach, Mark; Walker, Eric
+Subject: Fwd: New Comms template
+
+Sent from my iPhone
+
+Begin forwarded message:
+From: "Walker, Eric" <user@domain>
+Date: May 2, 2015 at 9:42:35 AM EDT
+To: Geoff Burgan <user@domain<mailto:user@domain>>
+Cc: Ryan Banfill <user@domain<mailto:user@domain>>
+Subject: New Comms template
+Geoff - Can you use this one and make sure Mike does as well?  I want to make sure all the Comms briefs are consistent regardless of the office since DWS is only one person.

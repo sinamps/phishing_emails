@@ -1,0 +1,5 @@
+<<link>>
+nick
+This invitation was sent to user@domain on behalf of Test (user@domain).
+If you do not wish to receive invitations from hi5 members, click on the link below:
+<<link>>
