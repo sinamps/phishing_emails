@@ -41,6 +41,9 @@ def apply_conditions(text):
     txt = ftfy.fix_text(text)
     txt = BeautifulSoup(txt, "lxml").text
     txt = re.sub(".[^\s]{26,}", '', txt)
+    txt = re.sub('\n+', '\n', txt)
+    if re.search("table[class=3Dad_group]", txt):
+        return None
     if len(txt) < 25:
         return None
     return txt
