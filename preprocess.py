@@ -7,6 +7,7 @@ import talon
 from talon import signature
 import pandas as p
 import ftfy
+from bs4 import BeautifulSoup
 
 DIR = 'datasets/IWSPA 2.0 Train/'
 # FH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_Full_Header'
@@ -38,6 +39,7 @@ def clean_remove_header(f):
 
 def apply_conditions(text):
     txt = ftfy.fix_text(text)
+    txt = BeautifulSoup(txt, "lxml").text
     txt = re.sub(".[^\s]{26,}", '', txt)
     if len(txt) < 25:
         return None
