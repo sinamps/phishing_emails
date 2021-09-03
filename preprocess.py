@@ -6,6 +6,7 @@ from email_reply_parser import EmailReplyParser
 import talon
 from talon import signature
 import pandas as p
+import ftfy
 
 DIR = 'datasets/IWSPA 2.0 Train/'
 # FH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_Full_Header'
@@ -28,7 +29,19 @@ def clean_remove_header(f):
     text = talon.quotations.extract_from_plain(text)
     text, sign = signature.bruteforce.extract_signature(text)
     text, sign = signature.extract(text, sender='')
+    # text = ftfy.fix_text(text)
+    # print(text)
+    # print('-----------------------------------------------------------------')
+    # print('-----------------------------------------------------------------')
     return text
+
+
+def apply_conditions(text):
+    txt = ftfy.fix_text(text)
+    txt = re.sub(".[^\s]{26,}", '', txt)
+    if len(txt) < 25:
+        return None
+    return txt
 
 
 def get_data(dirname, remove_header, fc, isPhish):
@@ -42,7 +55,9 @@ def get_data(dirname, remove_header, fc, isPhish):
                     continue
             else:
                 text = f.read()
-            texts_list.append(text)
+            text = apply_conditions(text)
+            if text is not None:
+                texts_list.append(text)
             f.close()
     labels_list = [(1 if isPhish else 0) for i in range(len(texts_list))]
     return texts_list, labels_list, fc
@@ -68,7 +83,7 @@ def read_files(input_dir):
     df = p.DataFrame(data=dict)
     # print(fc)
     # print(df)
-    df.to_csv('phishing_dataset.csv')
+    df.to_csv('phishing_dataset.csv', encoding='utf-8')
 
 
 if __name__ == '__main__':
