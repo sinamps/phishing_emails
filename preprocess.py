@@ -8,11 +8,12 @@ from talon import signature
 import pandas as p
 import ftfy
 from bs4 import BeautifulSoup
+import numpy as np
 
 DIR = 'datasets/IWSPA 2.0 Train/'
 # FH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_Full_Header'
 # NH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_No_Header'
-
+np.random.seed(0)
 
 def clean_remove_header(f):
     email_msg = email.message_from_file(f, policy=policy.default)
@@ -80,6 +81,10 @@ def get_data(dirname, remove_header, fc, isPhish):
 def read_files(input_dir):
     texts = []
     labels = []
+    all_legit_texts = []
+    all_legit_labels = []
+    all_phish_texts = []
+    all_phish_labels = []
     fc = 0
     for dirname in os.listdir(input_dir):
         remove_header = False
@@ -89,15 +94,30 @@ def read_files(input_dir):
         phish_dir = input_dir + dirname + '/phish/'
         legit_texts, legit_labels, fc = get_data(legit_dir, remove_header, fc, isPhish=False)
         phish_texts, phish_labels, fc = get_data(phish_dir,  remove_header, fc, isPhish=True)
-        texts.extend(legit_texts)
-        texts.extend(phish_texts)
-        labels.extend(legit_labels)
-        labels.extend(phish_labels)
-    dict = {'text': texts, 'label': labels}
-    df = p.DataFrame(data=dict)
+        # texts.extend(legit_texts)
+        # texts.extend(phish_texts)
+        # labels.extend(legit_labels)
+        # labels.extend(phish_labels)
+        all_legit_texts.extend(legit_texts)
+        all_legit_labels.extend(legit_labels)
+        all_phish_texts.extend(phish_texts)
+        all_phish_labels.extend(phish_labels)
+    dict_legit = {'text': all_legit_texts, 'label': all_legit_labels}
+    dict_phish = {'text': all_phish_texts, 'label': all_phish_labels}
+    df_legit = p.DataFrame(data=dict_legit)
+    df_phish = p.DataFrame(data=dict_phish)
+    legit_test_samples = df_legit.sample(frac=0.2, random_state=np.random.RandomState)
+    df_legit.drop(legit_test_samples.index, inplace=True)
+    phish_test_samples = df_phish.sample(frac=0.2, random_state=np.random.RandomState)
+    df_phish.drop(phish_test_samples.index, inplace=True)
+    df_testset = legit_test_samples.append(phish_test_samples)
+    df_trainset = df_legit.append(df_phish)
     # print(fc)
     # print(df)
-    df.to_csv('phishing_dataset.csv', encoding='utf-8')
+    df_trainset.to_csv('phishing_dataset_trainset.csv', encoding='utf-8')
+    df_testset.to_csv('phishing_dataset_testset.csv', encoding='utf-8')
+    print(df_trainset)
+    print(df_testset)
 
 
 if __name__ == '__main__':
