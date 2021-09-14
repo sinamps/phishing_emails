@@ -22,7 +22,7 @@ def clean_remove_header(f):
     if email_msg.is_multipart():
         # I need to fix this later so that we do not lose these three phishing samples
         # print(f.name)
-        return '---sinamps08/31/2021---'
+        return None
     else:
         payload = email_msg.get_payload()
     # payload = email_msg.get_payload()
@@ -42,8 +42,13 @@ def apply_conditions(text):
     txt = BeautifulSoup(txt, "lxml").text
     txt = re.sub(".[^\s]{26,}", '', txt)
     txt = re.sub('\n+', '\n', txt)
-    if re.search("table[class=3Dad_group]", txt):
+    if re.search("class=3Dad_group", txt):
         return None
+    txt = re.sub("download>=20", '', txt)
+    txt = re.sub("=09\n", '', txt)
+    txt = re.sub("<<>", '', txt)
+    txt = re.sub("<>", '', txt)
+    txt = re.sub('=\d', '', txt)
     if len(txt) < 25:
         return None
     return txt
@@ -52,18 +57,22 @@ def apply_conditions(text):
 def get_data(dirname, remove_header, fc, isPhish):
     texts_list = []
     for filename in os.listdir(dirname):
-        with open(os.path.join(dirname, filename), 'r') as f:  # open in readonly mode
-            fc = fc + 1
-            if remove_header:
-                text = clean_remove_header(f)
-                if text == '---sinamps08/31/2021---':
-                    continue
-            else:
-                text = f.read()
-            text = apply_conditions(text)
-            if text is not None:
-                texts_list.append(text)
+        f = open(os.path.join(dirname, filename), 'r')  # open in readonly mode
+        fc = fc + 1
+        if remove_header:
+            text = clean_remove_header(f)
+            if text is None:
+                f.close()
+                continue
+        else:
+            text = f.read()
+        txt = apply_conditions(text)
+        if not txt:
+            # print('text is none')
             f.close()
+            continue
+        texts_list.append(txt)
+        f.close()
     labels_list = [(1 if isPhish else 0) for i in range(len(texts_list))]
     return texts_list, labels_list, fc
 

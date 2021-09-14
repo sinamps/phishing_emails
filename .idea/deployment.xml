@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="sinamps@scissors.cs.colostate.edu:22 password" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sinamps@scissors.cs.colostate.edu:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" compareModeInSync="TIMESTAMP" showDifferentInSync="false">
     <serverData>
       <paths name="sinamps@scissors.cs.colostate.edu:22 password">
         <serverdata>
