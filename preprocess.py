@@ -13,7 +13,8 @@ import numpy as np
 DIR = 'datasets/IWSPA 2.0 Train/'
 # FH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_Full_Header'
 # NH_DIR = 'datasets/IWSPA 2.0 Train/IWSPA2.0_Training_No_Header'
-np.random.seed(0)
+rand_seed = 0
+np.random.seed(rand_seed)
 
 def clean_remove_header(f):
     email_msg = email.message_from_file(f, policy=policy.default)
@@ -59,16 +60,18 @@ def get_data(dirname, remove_header, fc, isPhish):
     texts_list = []
     for filename in os.listdir(dirname):
         f = open(os.path.join(dirname, filename), 'r')  # open in readonly mode
-        fc = fc + 1
+        # fc = fc + 1
         if remove_header:
             text = clean_remove_header(f)
             if text is None:
+                fc = fc + 1
                 f.close()
                 continue
         else:
             text = f.read()
         txt = apply_conditions(text)
         if not txt:
+            fc = fc + 1
             # print('text is none')
             f.close()
             continue
@@ -102,13 +105,14 @@ def read_files(input_dir):
         all_legit_labels.extend(legit_labels)
         all_phish_texts.extend(phish_texts)
         all_phish_labels.extend(phish_labels)
+        print(fc)
     dict_legit = {'text': all_legit_texts, 'label': all_legit_labels}
     dict_phish = {'text': all_phish_texts, 'label': all_phish_labels}
     df_legit = p.DataFrame(data=dict_legit)
     df_phish = p.DataFrame(data=dict_phish)
-    legit_test_samples = df_legit.sample(frac=0.2, random_state=np.random.RandomState)
+    legit_test_samples = df_legit.sample(frac=0.2, random_state=rand_seed)
     df_legit.drop(legit_test_samples.index, inplace=True)
-    phish_test_samples = df_phish.sample(frac=0.2, random_state=np.random.RandomState)
+    phish_test_samples = df_phish.sample(frac=0.2, random_state=rand_seed)
     df_phish.drop(phish_test_samples.index, inplace=True)
     df_testset = legit_test_samples.append(phish_test_samples)
     df_trainset = df_legit.append(df_phish)
@@ -118,6 +122,8 @@ def read_files(input_dir):
     df_testset.to_csv('phishing_dataset_testset.csv', encoding='utf-8')
     print(df_trainset)
     print(df_testset)
+    print(df_trainset['label'].value_counts())
+    print(df_testset['label'].value_counts())
 
 
 if __name__ == '__main__':
